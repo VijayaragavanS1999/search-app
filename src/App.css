@@ -3,6 +3,12 @@
   padding: 0;
   box-sizing: border-box;
 }
+/* navbar */
+.navContainer {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
 .search {
   width: 30%;
   display: flex;
